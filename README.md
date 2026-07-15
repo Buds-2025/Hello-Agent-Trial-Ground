@@ -24,5 +24,3 @@
 ## 致谢
 
 本项目灵感来自[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)，游戏内相关文案取材于该项目教材。
-
-本仓库只放下载说明和更新预告，开发工程与源素材不在这里公开。
