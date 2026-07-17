@@ -42,4 +42,8 @@ This project was inspired by [datawhalechina/hello-agents](https://github.com/da
 
 ## 6. Statement
 
-This project is an AI programming practice project inspired by https://github.com/datawhalechina/hello-agents. The text, audio, and video materials used in this project were created with assistance from artificial intelligence. This is a free project. Anyone may play the game free of charge, and suggestions for improvement are welcome. Any improper sale of the game or its related materials is considered inappropriate.
+This project is an AI programming practice project inspired by [https://github.com/datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents). The text, audio, and video materials used in this project were created with assistance from artificial intelligence.
+
+This is a free project. Anyone may play the game free of charge, and suggestions for improvement are welcome.
+
+Any improper sale of the game or its related materials is considered inappropriate.
