@@ -32,7 +32,7 @@ Any mainstream computer suitable for everyday office work should run the game sm
 1. Opening cinematic improvements
 2. More CG artwork
 3. Animated character artwork
-4. Story content refinements
+4. Story content refinements from Chapter5 onward
 5. Chapter BGM improvements
 6. Several DLC releases as a long-term project
 
